@@ -2503,11 +2503,11 @@
   "resolved" "https://registry.npmjs.org/@multiformats/base-x/-/base-x-4.0.1.tgz"
   "version" "4.0.1"
 
-"@my-app/contracts@^1.0.0", "@my-app/contracts@file:E:\\projects\\crang\\uniswap2.0-2\\packages\\contracts":
+"@my-app/contracts@^1.0.0", "@my-app/contracts@file:E:\\projects\\crang\\mrx_swap\\packages\\contracts":
   "resolved" "file:packages/contracts"
   "version" "1.0.0"
 
-"@my-app/react-app@file:E:\\projects\\crang\\uniswap2.0-2\\packages\\react-app":
+"@my-app/react-app@file:E:\\projects\\crang\\mrx_swap\\packages\\react-app":
   "resolved" "file:packages/react-app"
   "version" "1.0.0"
   dependencies:
